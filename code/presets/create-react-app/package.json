@@ -54,7 +54,7 @@
     "@types/babel__core": "^7.1.7",
     "babel-plugin-react-docgen": "^4.1.0",
     "pnp-webpack-plugin": "^1.7.0",
-    "semver": "^7.3.5"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@storybook/node-logger": "7.1.0-alpha.27",
