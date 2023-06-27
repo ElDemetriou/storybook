@@ -88,7 +88,7 @@
     "read-pkg-up": "^7.0.1",
     "semver": "^7.3.7",
     "shelljs": "^0.8.5",
-    "simple-update-notifier": "^1.0.0",
+    "simple-update-notifier": "^2.0.0",
     "strip-json-comments": "^3.0.1",
     "tempy": "^1.0.1",
     "ts-dedent": "^2.0.0",
