@@ -53,7 +53,7 @@
     "@emotion/jest": "^11.10.5",
     "@jest/globals": "^29.3.1",
     "@linear/sdk": "^1.22.0",
-    "@nx/workspace": "16.2.1",
+    "@nx/workspace": "17.3.0",
     "@storybook/eslint-config-storybook": "^3.1.2",
     "@storybook/jest": "future",
     "@storybook/linter-config": "^3.1.2",
