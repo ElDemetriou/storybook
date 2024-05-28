@@ -46,7 +46,7 @@
     "@storybook/channel-websocket": "7.1.0-alpha.27",
     "@storybook/client-logger": "7.1.0-alpha.27",
     "@storybook/core-common": "7.1.0-alpha.27",
-    "@storybook/csf-plugin": "7.1.0-alpha.27",
+    "@storybook/csf-plugin": "7.0.0",
     "@storybook/mdx2-csf": "^1.0.0",
     "@storybook/node-logger": "7.1.0-alpha.27",
     "@storybook/preview": "7.1.0-alpha.27",
