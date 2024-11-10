@@ -53,7 +53,7 @@
   "dependencies": {
     "@storybook/client-logger": "7.1.0-alpha.27",
     "@storybook/core-client": "7.1.0-alpha.27",
-    "@storybook/docs-tools": "7.1.0-alpha.27",
+    "@storybook/docs-tools": "6.5.0",
     "@storybook/global": "^5.0.0",
     "@storybook/manager-api": "7.1.0-alpha.27",
     "@storybook/preview-api": "7.1.0-alpha.27",
