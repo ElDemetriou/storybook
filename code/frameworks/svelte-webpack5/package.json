@@ -48,9 +48,9 @@
   },
   "dependencies": {
     "@storybook/builder-webpack5": "7.1.0-alpha.27",
-    "@storybook/core-common": "7.1.0-alpha.27",
-    "@storybook/preset-svelte-webpack": "7.1.0-alpha.27",
-    "@storybook/svelte": "7.1.0-alpha.27"
+    "@storybook/core-common": "8.2.0",
+    "@storybook/preset-svelte-webpack": "8.2.0",
+    "@storybook/svelte": "4.0.0"
   },
   "devDependencies": {
     "svelte": "^3.48.0",
