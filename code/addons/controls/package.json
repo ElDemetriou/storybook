@@ -68,11 +68,11 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/blocks": "7.1.0-alpha.27",
+    "@storybook/blocks": "7.0.0",
     "@storybook/client-logger": "7.1.0-alpha.27",
     "@storybook/components": "7.1.0-alpha.27",
     "@storybook/core-common": "7.1.0-alpha.27",
-    "@storybook/manager-api": "7.1.0-alpha.27",
+    "@storybook/manager-api": "8.2.0",
     "@storybook/node-logger": "7.1.0-alpha.27",
     "@storybook/preview-api": "7.1.0-alpha.27",
     "@storybook/theming": "7.1.0-alpha.27",
