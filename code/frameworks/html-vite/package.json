@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@storybook/addons": "7.1.0-alpha.27",
-    "@storybook/builder-vite": "7.1.0-alpha.27",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/channel-postmessage": "7.1.0-alpha.27",
     "@storybook/channel-websocket": "7.1.0-alpha.27",
     "@storybook/client-api": "7.1.0-alpha.27",
